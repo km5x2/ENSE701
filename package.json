@@ -4,6 +4,8 @@
   "description": "",
   "main": "App.js",
   "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.3",
     "react": "^16.13.1"
   },
   "devDependencies": {},

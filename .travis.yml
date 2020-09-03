@@ -5,9 +5,7 @@ node_js:
 
 script:
     - node App.js
-
-deploy:=
+deploy:
   provider: heroku
- 
-  api_key:
-  secure: "88616d22-91cd-42cf-b4b8-7909e6fd8916"
+  api_key: 88616d22-91cd-42cf-b4b8-7909e6fd8916
+  app: ense701kenneth

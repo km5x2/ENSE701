@@ -4,7 +4,7 @@ node_js:
   - "12"
 
 script:
-    - node index.js
+    - node app.js
 deploy:
   provider: heroku
   api_key: 88616d22-91cd-42cf-b4b8-7909e6fd8916
